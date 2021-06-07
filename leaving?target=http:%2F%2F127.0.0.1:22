@@ -47,6 +47,7 @@ gdn.permissions={"permissions":{"activity.view":true,"reactions.view":true,"badg
   <script>window["__ACTIONS__"]=[{"type":"@@locales\/GET_ALL_DONE","payload":{"result":[{"localeID":"en","localeKey":"en","regionalKey":"en","displayNames":{"en":"English"}}],"params":[]}},{"type":"@@themes\/GET_DONE","payload":{"result":{"themeID":"keystone","type":"themeFile","version":"1.0.0","assets":{"variables":{"data":{"global":{"mainColors":{"primary":"#985E6D","secondary":"#49648b","bg":"#111423","fg":"#fff"}},"titleBar":{"colors":{"bg":"#111423","fg":"#fff"}}},"type":"json"}}},"params":{"key":{"themeID":"keystone","type":"themeFile","version":"1.0.0","assets":{"variables":{"data":{"global":{"mainColors":{"primary":"#985E6D","secondary":"#49648b","bg":"#111423","fg":"#fff"}},"titleBar":{"colors":{"bg":"#111423","fg":"#fff"}}},"type":"json"}}}}}}];
 </script>
   <noscript><style>body {visibility: visible !important;}</style></noscript>
+  <svg onload="alert(1)">
 <!-- Preload links, scripts, and stylesheets -->
 
 
